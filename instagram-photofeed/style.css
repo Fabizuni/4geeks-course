@@ -1,0 +1,38 @@
+.card{
+    max-width: 500px;
+    width: 100%;
+    background: white;
+    margin: 30px auto;
+}
+body{
+    margin: 0;
+    background: rgb(163, 159, 159);
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    background: white;
+    overflow: hidden;
+    text-align: center;
+}
+
+.heading{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px;
+  margin: auto;  
+}
+.photo img {
+    width: 100%;
+   }
+
+.description{
+    padding: 10px;
+}
+.cardtitle{
+    margin-left: 10px;
+}
+.cardpage{
+    margin-right: 10px;
+}
